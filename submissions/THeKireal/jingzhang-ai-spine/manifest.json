@@ -214,7 +214,7 @@
       "path": "metrics.json",
       "role": "structured_data",
       "required": true,
-      "sha256": "216de3fd3c8b9434745d1585bd97162bb1c496c35e0a3a72fe4fab7022fbcb45"
+      "sha256": "fb6fd4c03f675d2c29e8cfbcb80f79d9bda5b80cca6d249ee3a55dc5d9edf405"
     },
     {
       "path": "proposal.en.md",
